@@ -1,0 +1,13 @@
+[
+    {
+    "n": "Implex (Pedigree Collapse) Calculator",
+    "i": "Implex (Pedigree Collapse) Calculator",
+    "t": 0,
+    "d": "Calculates Implex (Pedigree Collapse) per generation",
+    "v": "0.0.1",
+    "g": "6.0",
+    "s": 3,
+    "z": "Implex.addon.tgz",
+    "h": "Addon:Implex"
+    }
+]
