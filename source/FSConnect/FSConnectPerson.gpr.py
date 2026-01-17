@@ -1,0 +1,17 @@
+register(GRAMPLET,
+         id="FSConnectPerson",
+         name=_("FSConnect - Person"),
+         height=100,
+         expand=False,
+         description=_("Muestra datos básicos e ID de FamilySearch"),
+         fname="FSConnectPerson.py",
+         gramplet="FSConnectPerson",
+         gramplet_title=_("FSConnect - Person"),
+         status=STABLE,
+         version="0.0.1",
+         gramps_target_version="6.0",
+         authors=["Antonio Arias"],
+         authors_email=["antonio@arias.name"],
+         #navtypes=["Dashboard", "Person", "Family"],
+)
+
